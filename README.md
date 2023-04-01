@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Daniele Lemos 
+### Olá 👋 
+Eu me chamo Daniele Lemos 
 
 <!--
 **DanieleLemos/DanieleLemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
