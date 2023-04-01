@@ -1,6 +1,12 @@
 ### Olá 👋 
 Eu me chamo Daniele Lemos 
 
+<p align="right">
+	<img alt="DanieleLemos' visitors" src="https://komarev.com/ghpvc/?username=DanieleLemos&color=8c36db&style=flat&label=visitors" />
+	<img alt="DanieleLemos' followers" src="https://img.shields.io/github/followers/DanieleLemos?color=blueviolet" />
+	<img alt="DanieleLemos' stars" src="https://img.shields.io/github/stars/DanieleLemos?color=blueviolet" />
+</p>
+
 <!--
 **DanieleLemos/DanieleLemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
