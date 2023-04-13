@@ -1,5 +1,4 @@
-### Olá 👋 
-Eu me chamo Daniele Lemos 
+### Olá 👋 ! Eu sou a Daniele Lemos :information_desk_person:
 
 <p align="right">
 	<img alt="DanieleLemos' visitors" src="https://komarev.com/ghpvc/?username=DanieleLemos&color=D61EAC&style=flat&label=visitors" />
